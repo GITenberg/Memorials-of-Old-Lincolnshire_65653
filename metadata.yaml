@@ -1,0 +1,39 @@
+_repo: Memorials-of-Old-Lincolnshire_65653
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Sympson, Edward Mansel
+    alias: Sympson, E. Mansel
+    birthdate: 1860
+    deathdate: 1921
+    gutenberg_agent_id: '53444'
+    url: http://www.gutenberg.org/2009/agents/53444
+description: ''
+gutenberg_issued: '2021-06-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65653'
+  lccn: '11001715'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Lincolnshire (England)'
+- !lcsh 'Lincolnshire (England) -- Antiquities'
+- GITenberg
+tableOfContents: Prehistoric Lincolnshire, by Rev. A. Hunt, M.A. -- The Romans in
+  Lincolnshire, by Rev. E.H.R. Tatham, M.A. -- Saxon churches of Lincolnshire, by
+  A. Hamilton Thompson, M.A. -- Kirkstead Chapel, by C. Hodgson Fowler, F.S.A. --
+  South Lincolnshire churches, by W.E. Foster, F.S.A. -- The Church of St. Andrew,
+  Heckington, by W.G. Watkins, A.R.I.B.A. -- Boston and its church, by G.S.W. Jebb,
+  M.A. -- The town and church of Grantham, by A. Hamilton Thompson, M.A. -- Stamford,
+  by V.B. Crowther-Beynon, M.A., F.S.A. -- Tattershall Castle and Church, by the Editor
+  -- The sepulchral brasses of Lincolnshire, by Rev. G.E. Jeans, M.A., F.S.A. -- Mediæval
+  rood-screens and rood-lofts in Lincolnshire churches, by the Editor -- Lincolnshire
+  and the Great Civil War, by Rev. E.H.R. Tatham, M.A. -- Doddington Hall, by Rev.
+  R.E.G. Cole, M.A. -- Lincolnshire families, by Rev. Canon Maddison, M.A., F.S.A.
+  -- Spalding Gentlemen's Society, by Marten Perry, M.D.
+title: Memorials of Old Lincolnshire
+url: http://www.gutenberg.org/ebooks/65653
